@@ -582,6 +582,9 @@ body {
         font-size: 22px;
     }
 
+    #section-1 .content-wrapper{
+        padding: 0;
+    }
 
     .content-section-container .content-wrapper{
         flex-wrap: wrap;        
